@@ -1,7 +1,3 @@
-## 为防止账号再次遭到封禁失联,有条（科学）件（上网）的可以加入TG交流群
-## TG交流群：https://t.me/jd_zero205
-## TG通知频道：https://t.me/jd_zero205_tz
-
 ## ~~本仓库脚本已添加he1pu大佬互助池,自动提交互助码,随机互助~~（已取消）
 ## 为防止仓库再次被封，本仓库仅保留腾讯云函数、elecV2P两种方式运行
 ### 想继续使用AC运行的朋友请移步原仓库，没有大的更新随缘维护：https://github.com/zero205/JD  
@@ -170,11 +166,6 @@
 - QuantumultX Task脚本订阅链接: [lxk0301_gallery.json](https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_gallery.json)，cookie(重写)订阅链接: [lxk0301_cookies.conf](https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_cookies.conf)
 
 ## 通知频道 [https://t.me/jdfruit](https://t.me/jdfruit)
-
-## 赞赏码(开发维护不易,请赏杯茶水费)
-
-<div align=center><img width="250" height="250" src="./icon/thanks.jpg"/></div>
-
 
 ## 特别感谢(排名不分先后)：
 
